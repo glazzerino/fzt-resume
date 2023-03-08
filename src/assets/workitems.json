@@ -1,0 +1,47 @@
+[
+    {
+        "companyName": "Softtek",
+        "dateRange": "September 2022 - January 2023",
+        "experienceList": [
+            "Developed 3D object scene-positioning and download logic for a prototype VR Boutique E-commerce application using C#, Firebase and Unity.",
+            "Worked on a mitigation technique proposal for a Session Fixation vulnerability for a client’s platform."
+        ]
+    },
+    {
+        "companyName": "Meta",
+        "dateRange": "June 2022 - September 2022",
+        "experienceList": [
+            "Designed and developed a HTTP Mocking Framework for E2E tests applicable to all network related features, resulting in a development speed boost that benefits 29 million users.",
+            "Modernized app codebase by replacing Factory pattern with Dependency Injection of network client invocations.",
+            "Documented and exposed the project to employee community with a population of 71,970."
+        ]
+    },
+    {
+        "companyName": "Facebook",
+        "dateRange": "June 2021 - August 2021",
+        "experienceList": [
+            "Created a note organizing android app to scan and classify handwritten texts by topic.",
+            "Used cloud-based machine learning services for optical character recognition and text topic classification with 560 categories.",
+            "Provided external processing and storage using Firebase APIs to ensure compatibility with 625 million client devices."
+        ]
+    },
+    {
+        "companyName": "VantTec",
+        "dateRange": "January 2019 - December 2021",
+        "experienceList": [
+            "Created a 3D image processing node to detect specific game items. Project won 2nd place at Conexión Tec Expo in the software category.",
+            "Developed a machine learning model for object localization, achieved an R2 of 96%.",
+            "Wrote computer vision routines for geometry-based target acquisition system."
+        ]
+    },
+    {
+        "companyName": "Overture",
+        "dateRange": "October 2018 - 2020",
+        "experienceList": [
+            "Authored main control program with teleoperation and autonomous modes, contributing to the Rookie All Stars awarded to our team among 43 other teams in Monterrey Regional 2019.",
+            "Led software development in a team of 5 programmers and a total of 45 team members.",
+            "Wrote a vision-based target acquisition system using closed-control loops and 2 computing systems.",
+            "Added inverse kinematics to follow 4 different trajectories across the game field."
+        ]
+    }
+]

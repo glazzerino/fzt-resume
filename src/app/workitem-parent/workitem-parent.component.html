@@ -1,0 +1,6 @@
+<div class="container" *ngFor="let workItem of workItems">
+    <div class="inner">
+        <app-workitem [companyName]="workItem.companyName" [dateRange]="workItem.dateRange"
+            [experienceList]="workItem.experienceList"></app-workitem>
+    </div>
+</div>
