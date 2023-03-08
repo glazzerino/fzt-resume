@@ -1,0 +1,14 @@
+.lower_body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+  
+  .left-column {
+    flex: 2; 
+  }
+  
+  .right-column {
+    flex: 1; 
+  }
+  
