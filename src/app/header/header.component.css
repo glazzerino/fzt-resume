@@ -1,11 +1,11 @@
 ul {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
   }
 
 .headshot{
     border-radius: 4%;
-    max-width: 19%;
+    max-width: 10%;
 }
 h1 {
     font-size: 2rem;
@@ -22,11 +22,21 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: grey
 }
+.about {
+    font-size: 1.0rem;
+    font-weight: 400;
+    padding: 2%;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    max-width: 50%;;
+}
 
 .header-div {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center; /* Add this line */
     padding-right: 10%;
     padding-left: 10%;    
     padding-bottom: 2%;
