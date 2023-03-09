@@ -16,7 +16,6 @@ export class SkillsComponent {
   ];
   getRandomColor() {
     const randomIndex = Math.floor(Math.random() * this.colors.length);
-    console.log(randomIndex)
     return this.colors[randomIndex];
   }
   }
